@@ -1,150 +1,59 @@
-<div align="center">
+# 👋 Hey, I'm Aiswarya Maravarman
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=190&section=header&text=Aiswarya%20Maravarman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20Engineer%20%7C%20AI%20%26%20Data%20Science%20Student&descAlignY=55&descSize=17"/>
+### 🤖 AI & Data Science Engineer | Machine Learning | Computer Vision
 
-# 👋 Hi, I'm Aiswarya Maravarman
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+AI+that+solves+real-world+problems;Machine+Learning+%7C+Computer+Vision+%7C+Data+Analytics;Turning+Ideas+into+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-### 🚀 Aspiring AI Engineer | AI & Data Science Student
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=Machine+Learning;Deep+Learning;Computer+Vision;Python+Developer;Data+Analytics;Building+Intelligent+AI+Solutions" />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aiswaryamara.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiswarya-maravarman-8a5550371/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishumara2005@gmail.com)
-
-![](https://komarev.com/ghpvc/?username=aishumara2005&label=Profile+Views&color=6C63FF&style=for-the-badge)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aishumara2005&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-# 🧬 About Me
+## 🧠 About Me
 
 🎓 **B.Tech Artificial Intelligence & Data Science**  
-🏫 Indra Ganesan College of Engineering (2023–2027)
+🏫 **Indra Ganesan College of Engineering** | 2023–2027  
+📍 Tiruchirappalli, Tamil Nadu  
+💼 **Machine Learning Engineer Intern @ Senchola Technology Solutions**
 
-📍 Tiruchirappalli, Tamil Nadu
+> **I don't just learn AI — I build with it. 🚀**
 
-💼 Machine Learning Engineer Intern @ Senchola Technology Solutions
+I'm passionate about transforming real-world problems into
+**practical, intelligent and data-driven solutions.**
 
-🌱 Currently learning
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Data Analytics
+My core interests include:
 
----
-
-# 🎓 Education
-
-| Degree | Institution | Score |
-|---------|-------------|-------|
-| B.Tech AI & Data Science | Indra Ganesan College of Engineering | CGPA 8.1 |
-| Higher Secondary | Holy Redeemers Girls Hr. Sec. School | 72% |
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- 📊 Data Analytics
+- ⚙️ AI-powered Applications
+- 🚀 Intelligent Automation
 
 ---
 
-# 💻 Tech Stack
+# 🚀 What I Build
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,flask,mysql,git,github,vscode"/>
-
-</p>
-
-### Languages & Tools
-
-- Python
-- TensorFlow
-- OpenCV
-- XGBoost
-- NumPy
-- Streamlit
-- Flask
-- MySQL
-- Git
-- GitHub
-- VS Code
-
----
-
-# 🚀 Projects
-
-## 🔍 AI-Based DeepFake Detection System
-
-- Detects Real / Fake Images & Videos
-- MobileNetV2 Transfer Learning
-- OpenCV Face Detection
-- Flask Web Application
-
----
-
-## 📊 AI-Based Employee Performance Prediction
-
-- Employee Performance Prediction
-- HR Analytics Dashboard
-- XGBoost Model
-- Streamlit Dashboard
-
----
-
-# 💼 Experience
-
-### Machine Learning Engineer Intern
-
-**Senchola Technology Solutions**
-
-- Employee Performance Prediction
-- HR Analytics Dashboard
-- Python
-- XGBoost
-- Data Analytics
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aishumara2005&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=aishumara2005&theme=radical&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aishumara2005&theme=react-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 Achievements
-
-- 🥉 Third Prize – Project Expo
-- ☁️ NPTEL Cloud Computing
-- 🤖 AI Workshops
-- 💡 Technical Symposiums
-- 📜 Multiple Certifications
-
----
-
-# 🤝 Soft Skills
-
-- Problem Solving
-- Teamwork
-- Communication
-- Leadership
-- Time Management
-- Adaptability
-
----
-
-<div align="center">
-
-## ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C63FF&height=120&section=footer"/>
-
-</div>
+```text
+        REAL-WORLD PROBLEM
+                │
+                ▼
+        DATA COLLECTION
+                │
+                ▼
+       DATA PREPROCESSING
+                │
+                ▼
+          AI / ML MODEL
+                │
+                ▼
+       INTELLIGENT ANALYSIS
+                │
+                ▼
+        PRACTICAL SOLUTION
+                │
+                ▼
+             🚀 IMPACT
