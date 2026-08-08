@@ -1,59 +1,114 @@
-# 👋 Hey, I'm Aiswarya Maravarman
+# 👋 Hi, I'm Aiswarya Maravarman
 
-### 🤖 AI & Data Science Engineer | Machine Learning | Computer Vision
+### 🚀 Aspiring AI Engineer | AI & Data Science Student
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+AI+that+solves+real-world+problems;Machine+Learning+%7C+Computer+Vision+%7C+Data+Analytics;Turning+Ideas+into+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aishumara2005&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
-## 🧠 About Me
+# 🧬 About Me
 
-🎓 **B.Tech Artificial Intelligence & Data Science**  
-🏫 **Indra Ganesan College of Engineering** | 2023–2027  
-📍 Tiruchirappalli, Tamil Nadu  
-💼 **Machine Learning Engineer Intern @ Senchola Technology Solutions**
+🎓 **B.Tech Artificial Intelligence & Data Science**
+🏫 Indra Ganesan College of Engineering (2023–2027)
 
-> **I don't just learn AI — I build with it. 🚀**
+📍 Tiruchirappalli, Tamil Nadu
 
-I'm passionate about transforming real-world problems into
-**practical, intelligent and data-driven solutions.**
+💼 Machine Learning Engineer Intern @ Senchola Technology Solutions
 
-My core interests include:
+🌱 Currently learning
 
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 👁️ Computer Vision
-- 📊 Data Analytics
-- ⚙️ AI-powered Applications
-- 🚀 Intelligent Automation
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Data Analytics
 
 ---
 
-# 🚀 What I Build
+# 🎓 Education
 
-```text
-        REAL-WORLD PROBLEM
-                │
-                ▼
-        DATA COLLECTION
-                │
-                ▼
-       DATA PREPROCESSING
-                │
-                ▼
-          AI / ML MODEL
-                │
-                ▼
-       INTELLIGENT ANALYSIS
-                │
-                ▼
-        PRACTICAL SOLUTION
-                │
-                ▼
-             🚀 IMPACT
+| Degree                   | Institution                          | Score    |
+| ------------------------ | ------------------------------------ | -------- |
+| B.Tech AI & Data Science | Indra Ganesan College of Engineering | CGPA 8.1 |
+| Higher Secondary         | Holy Redeemers Girls Hr. Sec. School | 72%      |
+
+---
+
+# 💻 Tech Stack
+
+### Languages & Tools
+
+- Python
+- TensorFlow
+- OpenCV
+- XGBoost
+- NumPy
+- Streamlit
+- Flask
+- MySQL
+- Git
+- GitHub
+- VS Code
+
+---
+
+# 🚀 Projects
+
+## 🔍 AI-Based DeepFake Detection System
+
+- Detects Real / Fake Images & Videos
+- MobileNetV2 Transfer Learning
+- OpenCV Face Detection
+- Flask Web Application
+
+---
+
+## 📊 AI-Based Employee Performance Prediction
+
+- Employee Performance Prediction
+- HR Analytics Dashboard
+- XGBoost Model
+- Streamlit Dashboard
+
+---
+
+# 💼 Experience
+
+### Machine Learning Engineer Intern
+
+**Senchola Technology Solutions**
+
+- Employee Performance Prediction
+- HR Analytics Dashboard
+- Python
+- XGBoost
+- Data Analytics
+
+---
+
+# 📈 GitHub Stats
+
+---
+
+# 🏆 Achievements
+
+- 🥉 Third Prize – Project Expo
+- ☁️ NPTEL Cloud Computing
+- 🤖 AI Workshops
+- 💡 Technical Symposiums
+- 📜 Multiple Certifications
+
+---
+
+# 🤝 Soft Skills
+
+- Problem Solving
+- Teamwork
+- Communication
+- Leadership
+- Time Management
+- Adaptability
+
+---
+
+## ⭐ Thanks for visiting my profile!
+
