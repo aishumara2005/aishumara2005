@@ -54,10 +54,6 @@
 
 # 🚀 Featured Projects
 
-### 🕵️ SpyCam AI — Real-Time Aggression Detection
-Real-time computer vision system for detecting aggressive behavior from live video feeds, with an animated demo showcasing detection pipeline in action.
-`Computer Vision` `OpenCV` `Real-Time Inference`
-
 ### 🔍 AI-Based DeepFake Detection System
 Classifies real vs. fake images/videos using transfer learning, paired with a Flask web app for live predictions.
 `MobileNetV2` `Transfer Learning` `OpenCV` `Flask`
