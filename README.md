@@ -1,126 +1,206 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=190&section=header&text=Aiswarya%20Maravarman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20Engineer%20%7C%20AI%20%26%20Data%20Science%20Student&descAlignY=55&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,50:00FF9C,100:0F0F0F&height=200&section=header&text=AISWARYA%20MARAVARMAN&fontSize=38&fontColor=00FF9C&animation=fadeIn&fontAlignY=35&desc=%3E%20AI%20Engineer%20_%20booting%20up...&descAlignY=55&descSize=16&descColor=39FF14"/>
 
-# 👋 Hi, I'm Aiswarya Maravarman
-### 🚀 Aspiring AI Engineer | Computer Vision • ML • Full-Stack AI Tools
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=800&lines=root%40aiswarya%3A~%24+whoami;%3E+AI+%26+Data+Science+Engineer;%3E+building+intelligent+systems...;%3E+status%3A+online+%E2%9C%93" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision;Full-Stack+AI+Application+Developer;Python+%7C+Flask+%7C+React+Developer;Building+Intelligent+AI+Solutions;Turning+Ideas+Into+Deployed+Products" />
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=39FF14)](https://aiswaryamara.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://www.linkedin.com/in/aiswarya-maravarman-8a5550371/)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:aishumara2005@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aiswaryamara.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiswarya-maravarman-8a5550371/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishumara2005@gmail.com)
-
-![](https://komarev.com/ghpvc/?username=aishumara2005&label=Profile+Views&color=6C63FF&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=aishumara2005&label=VISITORS&color=0F0F0F&style=for-the-badge)
 
 </div>
 
----
+```bash
+$ cat about_me.txt
+```
 
-# 🧬 About Me
-
-🎓 **B.Tech Artificial Intelligence & Data Science** (2023–2027) — CGPA 8.1
-🏫 Indra Ganesan College of Engineering, Trichy, Tamil Nadu
-📍 Tiruchirappalli, Tamil Nadu, India
-💼 AI & ML Intern @ **VDart Academy** (Jun–Jul 2026)
-💼 Machine Learning Engineer Intern @ **Senchola Technology Solutions**
-🌱 Currently deep-diving into: Computer Vision, Agentic AI Systems, Full-Stack AI Product Development
-⚡ Fun fact: I like building things end-to-end — model → API → UI → deployed link
+> 🎓 B.Tech Artificial Intelligence & Data Science — Indra Ganesan College of Engineering (2023–2027) | CGPA 8.1
+> 📍 Tiruchirappalli, Tamil Nadu, India
+> 💼 AI & ML Intern @ VDart Academy · ML Engineer Intern @ Senchola Technology Solutions
+> 🌐 Full-stack AI builder — model to deployed product
+> 🧠 Currently hacking on: Computer Vision · Agentic AI Systems · Full-Stack AI Products
 
 ---
 
-# 🎓 Education
-
-| Degree | Institution | Score |
-|---|---|---|
-| B.Tech AI & Data Science | Indra Ganesan College of Engineering | CGPA 8.1 |
-| Higher Secondary | Holy Redeemers Girls Hr. Sec. School | 72% |
-
----
-
-# 💻 Tech Stack
+## `> tech_stack --list`
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,flask,react,ts,js,tailwind,mysql,fastapi,git,github,vscode,netlify"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,flask,react,ts,js,tailwind,mysql,fastapi,git,github,vscode,netlify&theme=dark"/>
 </p>
 
-**Languages & Core**: Python · TypeScript · JavaScript
-**AI / ML**: TensorFlow · Keras · OpenCV · XGBoost · MobileNetV2 · NumPy · Pandas · Scikit-learn
-**Backend**: Flask · FastAPI · SQLAlchemy · REST APIs · Claude AI Integration
-**Frontend**: React (Next.js 14) · Tailwind CSS · Framer Motion · Streamlit
-**Databases & Tools**: MySQL · Git · GitHub · VS Code · Netlify · APScheduler
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+**⚡ AI / ML**
+![](https://img.shields.io/badge/-TensorFlow-000?style=flat-square&logo=tensorflow&logoColor=39FF14)
+![](https://img.shields.io/badge/-OpenCV-000?style=flat-square&logo=opencv&logoColor=39FF14)
+![](https://img.shields.io/badge/-XGBoost-000?style=flat-square&logo=xgboost&logoColor=39FF14)
+![](https://img.shields.io/badge/-MobileNetV2-000?style=flat-square&logoColor=39FF14)
+![](https://img.shields.io/badge/-NumPy-000?style=flat-square&logo=numpy&logoColor=39FF14)
+![](https://img.shields.io/badge/-Pandas-000?style=flat-square&logo=pandas&logoColor=39FF14)
+
+</td>
+<td valign="top" width="50%">
+
+**🖥️ Full-Stack**
+![](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=39FF14)
+![](https://img.shields.io/badge/-FastAPI-000?style=flat-square&logo=fastapi&logoColor=39FF14)
+![](https://img.shields.io/badge/-React-000?style=flat-square&logo=react&logoColor=39FF14)
+![](https://img.shields.io/badge/-TailwindCSS-000?style=flat-square&logo=tailwindcss&logoColor=39FF14)
+![](https://img.shields.io/badge/-MySQL-000?style=flat-square&logo=mysql&logoColor=39FF14)
+![](https://img.shields.io/badge/-Netlify-000?style=flat-square&logo=netlify&logoColor=39FF14)
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Featured Projects
+## `> ls ./projects`
 
-### 🔍 AI-Based DeepFake Detection System
-Classifies real vs. fake images/videos using transfer learning, paired with a Flask web app for live predictions.
-`MobileNetV2` `Transfer Learning` `OpenCV` `Flask`
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### 📊 HR Analytics & Employee Performance Prediction
-End-to-end HR analytics dashboard predicting employee performance using gradient boosting, visualized interactively.
-`XGBoost` `Streamlit` `Data Analytics`
+### 🕵️ `SpyCam_AI`
+```
+STATUS: deployed
+```
+Real-time computer vision system for live aggression detection, with an animated demo of the full pipeline.
+`OpenCV` `Real-Time CV`
 
-### 🤖 GitPulse — AI-Powered GitHub Team Monitor
-Tracks team activity and productivity across GitHub repos, with a companion VS Code extension for in-editor insights.
-`Flask` `GitHub API` `VS Code Extension`
+</td>
+<td width="50%" valign="top">
+
+### 🔍 `DeepFake_Detector`
+```
+STATUS: deployed
+```
+Classifies real vs. fake images/videos via transfer learning, wrapped in a Flask web app.
+`MobileNetV2` `Flask`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 `HR_Analytics_XGB`
+```
+STATUS: deployed
+```
+Employee performance prediction + interactive HR analytics dashboard.
+`XGBoost` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 `GitPulse`
+```
+STATUS: deployed
+```
+AI-powered GitHub team activity monitor with a companion VS Code extension.
+`Flask` `GitHub API` `VS Code Ext`
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 💼 Experience
+## `> ls ./future_builds  # 🔮 in progress`
 
-**AI & ML Intern — VDart Academy** · Jun–Jul 2026
-Applied AI/ML techniques in a structured internship program covering practical model building and deployment workflows.
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top">
 
-**Machine Learning Engineer Intern — Senchola Technology Solutions**
-- Built an Employee Performance Prediction model and HR Analytics Dashboard
-- Python · XGBoost · Data Analytics
+**🏛️ GrievanceAI**
+Civic complaint platform — role-based dashboards, SLA automation, Claude-assisted triage.
+`FastAPI` `React+Vite` `Claude AI`
+
+</td>
+<td width="33%" valign="top">
+
+**🦄 UnicornVibe**
+Autonomous multi-agent startup engine, streaming agent output live.
+`Flask+SSE` `Claude Sonnet`
+
+</td>
+<td width="33%" valign="top">
+
+**💬 AI Business Consultant**
+Live Claude-powered consulting app via Cloudflare Worker proxy.
+`Claude API` `Cloudflare`
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📈 GitHub Stats
+## `> ./experience.sh`
+
+```
+[VDart Academy]              AI & ML Intern              Jun–Jul 2026
+[Senchola Tech Solutions]    ML Engineer Intern          Employee Performance Prediction · HR Analytics
+```
+
+---
+
+## `> git log --stats`
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aishumara2005&show_icons=true&theme=radical&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishumara2005&layout=compact&theme=radical&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aishumara2005&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0F0F0F&title_color=39FF14&icon_color=00FF9C&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishumara2005&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0F0F0F&title_color=39FF14&text_color=c9d1d9"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=aishumara2005&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=aishumara2005&theme=highcontrast&hide_border=true&background=0F0F0F&ring=39FF14&fire=00FF9C&currStreakLabel=39FF14"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aishumara2005&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aishumara2005&theme=react-dark&hide_border=true&bg_color=0F0F0F&color=39FF14&line=00FF9C&point=ffffff"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aishumara2005&theme=radical&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aishumara2005&theme=matrix&no-frame=true&row=1&column=7"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-# 🏆 Achievements
+## `> cat achievements.log`
 
-- 🥉 Third Prize – Project Expo
-- ☁️ NPTEL Cloud Computing
-- 🤖 Multiple AI/ML Workshops
-- 💡 Technical Symposiums
-- 📜 Multiple Certifications (AI & ML, Cloud Computing)
+```
+[✓] 3rd Prize   — Project Expo
+[✓] Certified   — NPTEL Cloud Computing
+[✓] Attended    — Multiple AI/ML Workshops
+[✓] Presented   — Technical Symposiums
+[✓] Earned      — Multiple Certifications
+```
 
 ---
 
-# 🤝 Soft Skills
+## `> whoami --soft-skills`
 
-`Problem Solving` `Teamwork` `Communication` `Leadership` `Time Management` `Adaptability`
+`Problem_Solving` `Teamwork` `Communication` `Leadership` `Time_Management` `Adaptability`
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
-*Always open to collaborating on AI/ML and full-stack projects.*
+```
+$ echo "thanks for stopping by"
+> thanks for stopping by ✓
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C63FF&height=120&section=footer"/>
+**Open to collaborating on AI/ML + full-stack builds. Ping me anytime.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,50:00FF9C,100:0F0F0F&height=120&section=footer"/>
 
 </div>
