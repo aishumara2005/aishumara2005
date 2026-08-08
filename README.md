@@ -1,250 +1,150 @@
-# 👋 Hey, I'm Aiswarya Maravarman
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=190&section=header&text=Aiswarya%20Maravarman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20Engineer%20%7C%20AI%20%26%20Data%20Science%20Student&descAlignY=55&descSize=17"/>
+
+# 👋 Hi, I'm Aiswarya Maravarman
 
 ### 🚀 Aspiring AI Engineer | AI & Data Science Student
 
-> **Turning data into intelligence and ideas into real-world AI solutions.** 🤖
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=Machine+Learning;Deep+Learning;Computer+Vision;Python+Developer;Data+Analytics;Building+Intelligent+AI+Solutions" />
 
-<p align="center">
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aiswaryamara.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiswarya-maravarman-8a5550371/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishumara2005@gmail.com)
 
-🧠 Machine Learning &nbsp;•&nbsp;
-🤖 Deep Learning &nbsp;•&nbsp;
-👁️ Computer Vision &nbsp;•&nbsp;
-📊 Data Analytics &nbsp;•&nbsp;
-🐍 Python
+![](https://komarev.com/ghpvc/?username=aishumara2005&label=Profile+Views&color=6C63FF&style=for-the-badge)
 
-</p>
+</div>
 
 ---
 
-## 🧬 About Me
+# 🧬 About Me
 
-I'm **Aiswarya Maravarman**, a passionate **Artificial Intelligence and Data Science student** who loves building intelligent applications and solving real-world problems using data.
+🎓 **B.Tech Artificial Intelligence & Data Science**  
+🏫 Indra Ganesan College of Engineering (2023–2027)
 
-🎓 **B.Tech Artificial Intelligence and Data Science**  
-🏫 **Indra Ganesan College of Engineering**  
-📅 **2023 – 2027**  
-💼 **Machine Learning Engineer Intern — Senchola Technology Solutions**  
-📍 **Tiruchirappalli, Tamil Nadu, India**
+📍 Tiruchirappalli, Tamil Nadu
 
-### 🎯 My Focus
+💼 Machine Learning Engineer Intern @ Senchola Technology Solutions
 
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 👁️ Computer Vision
-- 📊 Data Analytics
-- 🐍 Python Application Development
-- 📈 Predictive Analytics
-
-> **I don't just learn AI — I build with it.**
-
----
-
-## ⚡ Quick Snapshot
-
-| 🎯 Area | 🚀 Details |
-|---|---|
-| 🎓 Education | B.Tech AI and Data Science |
-| 💼 Experience | Machine Learning Engineer Intern |
-| 🧠 Primary Focus | Artificial Intelligence |
-| 🐍 Main Language | Python |
-| 🤖 ML Tools | TensorFlow, XGBoost, OpenCV |
-| 📊 Analytics | NumPy, MySQL, Streamlit |
-| 🛠️ Development | Flask, Git, GitHub |
-| 🌱 Currently Learning | Advanced AI and Deep Learning |
-
----
-
-# 🛠️ Tech Arsenal
-
-### 🐍 Programming
-`Python` `SQL`
-
-### 🤖 Artificial Intelligence
-`Machine Learning` `Deep Learning` `Computer Vision`
-
-### 📊 Data Science
-`NumPy` `Data Cleaning` `Data Analysis` `Data Visualization`
-
-### 🔧 Frameworks and Libraries
-`TensorFlow` `Keras` `OpenCV` `XGBoost` `Flask` `Streamlit`
-
-### 🗄️ Database and Tools
-`MySQL` `Git` `GitHub` `VS Code`
-
----
-
-# 🚀 Featured Projects
-
-## 🕵️ AI-Based DeepFake Detection System
-
-> **Detecting manipulated media using Deep Learning.**
-
-An AI-powered application designed to identify whether an uploaded image or video is **Real or Fake**.
-
-### 🔥 Highlights
-
-- 🧠 MobileNetV2 Transfer Learning
-- 👁️ OpenCV Face Detection
-- 🎞️ Video Frame Extraction
-- 🤖 CNN-based Deep Learning
-- 🌐 Flask Web Application
-- 📊 Prediction with Confidence Score
-
-**Tech:** `Python` `TensorFlow` `OpenCV` `Flask` `MobileNetV2`
-
----
-
-## 📊 AI-Based Employee Performance Prediction
-
-> **Predicting employee performance using Machine Learning.**
-
-An AI-powered HR analytics system designed to analyze employee data and predict future performance.
-
-### 🔥 Highlights
-
-- 📈 Employee Performance Prediction
-- 🤖 XGBoost Regression
-- 📊 HR Analytics Dashboard
-- 🧹 Data Preprocessing
-- 📉 Performance Analysis
-- ⚡ Streamlit Application
-
-**Tech:** `Python` `XGBoost` `Streamlit` `Pandas` `Data Analytics`
-
----
-
-# 💼 Professional Experience
-
-## Machine Learning Engineer Intern
-
-### Senchola Technology Solutions
-
-**December 2025**
-
-- 🤖 Developed an Employee Performance Prediction System
-- 📊 Built an interactive HR Analytics Dashboard
-- 🐍 Used Python for data processing and model development
-- 📈 Applied XGBoost for predictive analytics
-- 🔍 Performed data analysis and visualization
-- 🤝 Worked on improving model performance and insights
+🌱 Currently learning
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Data Analytics
 
 ---
 
 # 🎓 Education
 
-| 🎓 Qualification | 🏫 Institution | 📅 Duration | 📊 Score |
-|---|---|---|---|
-| **B.Tech AI and Data Science** | Indra Ganesan College of Engineering | 2023 – 2027 | **CGPA 8.1** |
-| **Higher Secondary** | Holy Redeemers Girls Hr. Sec. School | 2021 – 2023 | **72%** |
+| Degree | Institution | Score |
+|---------|-------------|-------|
+| B.Tech AI & Data Science | Indra Ganesan College of Engineering | CGPA 8.1 |
+| Higher Secondary | Holy Redeemers Girls Hr. Sec. School | 72% |
 
 ---
 
-# 🏆 Achievements and Certifications
+# 💻 Tech Stack
 
-🥉 **Third Prize Winner** — Project Expo, Kalasalingam University
+<p align="center">
 
-☁️ **NPTEL Certification** — Cloud Computing
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,flask,mysql,git,github,vscode"/>
 
-🧠 **Generative AI Workshop**
+</p>
 
-🤖 **AI and Technology Workshop** — Kongu Engineering College
+### Languages & Tools
 
-🎪 **Project Expo Participant** — Kalasalingam University
-
-💬 **Technical Symposium Participant**
-
----
-
-# 💡 What I Bring
-
-```text
-Problem Solving       ████████████████████
-Machine Learning      ██████████████████░░
-Python Development    ███████████████████░
-Data Analytics        █████████████████░░░
-Computer Vision       ████████████████░░░░
-Team Collaboration    ███████████████████░
-```
+- Python
+- TensorFlow
+- OpenCV
+- XGBoost
+- NumPy
+- Streamlit
+- Flask
+- MySQL
+- Git
+- GitHub
+- VS Code
 
 ---
 
-# 📈 GitHub Journey
+# 🚀 Projects
 
-### 🚀 Building. Learning. Experimenting. Improving.
+## 🔍 AI-Based DeepFake Detection System
 
-```text
-2023  ───────────────  Started AI and Data Science Journey
-                         │
-2024  ───────────────  Python + Data Science
-                         │
-2025  ───────────────  Machine Learning + Projects
-                         │
-2026  ───────────────  Deep Learning + AI Engineering
-                         │
-2027  ───────────────  AI Engineer 🚀
-```
+- Detects Real / Fake Images & Videos
+- MobileNetV2 Transfer Learning
+- OpenCV Face Detection
+- Flask Web Application
 
 ---
 
-# 🧠 Currently Learning
+## 📊 AI-Based Employee Performance Prediction
 
-- 🔥 Advanced Machine Learning
-- 🧠 Deep Learning
-- 👁️ Computer Vision
-- 📊 Advanced Data Analytics
-- 🚀 AI Application Development
-- ☁️ AI Deployment
+- Employee Performance Prediction
+- HR Analytics Dashboard
+- XGBoost Model
+- Streamlit Dashboard
 
 ---
 
-# 🎯 2026 Goals
+# 💼 Experience
 
-- 🚀 Build production-ready AI applications
-- 🧠 Strengthen Deep Learning skills
-- 📊 Create impactful Data Science projects
-- 💻 Contribute to Open Source
-- 🌐 Build a strong AI Engineering portfolio
-- 🤝 Collaborate on meaningful AI projects
+### Machine Learning Engineer Intern
+
+**Senchola Technology Solutions**
+
+- Employee Performance Prediction
+- HR Analytics Dashboard
+- Python
+- XGBoost
+- Data Analytics
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aishumara2005&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=aishumara2005&theme=radical&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aishumara2005&theme=react-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+- 🥉 Third Prize – Project Expo
+- ☁️ NPTEL Cloud Computing
+- 🤖 AI Workshops
+- 💡 Technical Symposiums
+- 📜 Multiple Certifications
 
 ---
 
 # 🤝 Soft Skills
 
-`Problem Solving`  
-`Teamwork`  
-`Communication`  
-`Leadership`  
-`Time Management`  
-`Adaptability`  
-`Analytical Thinking`
+- Problem Solving
+- Teamwork
+- Communication
+- Leadership
+- Time Management
+- Adaptability
 
 ---
 
-# 🌐 Let's Connect
+<div align="center">
 
-If you're interested in **AI, Machine Learning, Data Science or building something awesome**, let's connect and collaborate! 🚀
+## ⭐ Thanks for visiting my profile!
 
-### 🔗 Portfolio
-https://aiswaryamara.netlify.app/
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C63FF&height=120&section=footer"/>
 
-### 💼 LinkedIn
-https://www.linkedin.com/in/aiswarya-maravarman-8a5550371/
-
-### 📧 Email
-aishumara2005@gmail.com
-
----
-
-# 💭 Developer Mindset
-
-> ### "Learn it. Build it. Break it. Improve it. Repeat." 🔥
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my GitHub profile!
-
-### 🚀 Keep Learning • Keep Building • Keep Growing
-
-</p>
+</div>
