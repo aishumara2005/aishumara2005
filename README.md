@@ -1,205 +1,132 @@
-<div align="center">
-
-# 👋 Hi, I'm Aiswarya Maravarman
+# 👋 Hey, I'm Aiswarya Maravarman
 
 ### 🚀 Aspiring AI Engineer | AI & Data Science Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=6C63FF&center=true&vCenter=true&width=850&lines=Machine+Learning+Engineer+in+Progress+%F0%9F%A4%96;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Data+Analytics;Python+%7C+TensorFlow+%7C+OpenCV;Building+Intelligent+Real-World+Solutions" alt="Typing Animation"/>
+> **Turning data into intelligence and ideas into real-world AI solutions.** 🤖
 
-<br>
+<p align="center">
 
-<a href="https://aiswaryamara.netlify.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge" alt="Portfolio"/>
-</a>
+🧠 Machine Learning &nbsp;•&nbsp;
+🤖 Deep Learning &nbsp;•&nbsp;
+👁️ Computer Vision &nbsp;•&nbsp;
+📊 Data Analytics &nbsp;•&nbsp;
+🐍 Python
 
-<a href="https://www.linkedin.com/in/aiswarya-maravarman-8a5550371/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:aishumara2005@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=aishumara2005&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
-
-</div>
+</p>
 
 ---
 
 ## 🧬 About Me
 
-Hi! I'm **Aiswarya Maravarman**, a passionate **Artificial Intelligence and Data Science student** focused on building practical AI solutions that solve real-world problems.
+I'm **Aiswarya Maravarman**, a passionate **Artificial Intelligence and Data Science student** who loves building intelligent applications and solving real-world problems using data.
 
 🎓 **B.Tech Artificial Intelligence and Data Science**  
 🏫 **Indra Ganesan College of Engineering**  
 📅 **2023 – 2027**  
-💼 **Machine Learning Engineer Intern @ Senchola Technology Solutions**  
+💼 **Machine Learning Engineer Intern — Senchola Technology Solutions**  
 📍 **Tiruchirappalli, Tamil Nadu, India**
 
-I enjoy transforming **data into insights**, **ideas into intelligent systems**, and **machine learning concepts into working applications**.
+### 🎯 My Focus
 
-> 💡 **My goal:** Become a strong AI Engineer who builds technology that creates real-world impact.
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- 📊 Data Analytics
+- 🐍 Python Application Development
+- 📈 Predictive Analytics
+
+> **I don't just learn AI — I build with it.**
 
 ---
 
-## ⚡ Quick Facts
+## ⚡ Quick Snapshot
 
-<table>
-<tr>
-<td>
-
-🎓 **Education**
-
-B.Tech AI and Data Science
-
-</td>
-<td>
-
-💼 **Experience**
-
-Machine Learning Engineer Intern
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-🧠 **Primary Focus**
-
-Artificial Intelligence
-
-</td>
-<td>
-
-🐍 **Main Language**
-
-Python
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-📊 **Data**
-
-Analytics and Predictive Modeling
-
-</td>
-<td>
-
-👁️ **Special Interest**
-
-Computer Vision
-
-</td>
-</tr>
-</table>
+| 🎯 Area | 🚀 Details |
+|---|---|
+| 🎓 Education | B.Tech AI and Data Science |
+| 💼 Experience | Machine Learning Engineer Intern |
+| 🧠 Primary Focus | Artificial Intelligence |
+| 🐍 Main Language | Python |
+| 🤖 ML Tools | TensorFlow, XGBoost, OpenCV |
+| 📊 Analytics | NumPy, MySQL, Streamlit |
+| 🛠️ Development | Flask, Git, GitHub |
+| 🌱 Currently Learning | Advanced AI and Deep Learning |
 
 ---
 
 # 🛠️ Tech Arsenal
 
-<div align="center">
+### 🐍 Programming
+`Python` `SQL`
 
-### 💻 Programming and Development
+### 🤖 Artificial Intelligence
+`Machine Learning` `Deep Learning` `Computer Vision`
 
-<img src="https://skillicons.dev/icons?i=python,mysql,flask,git,github,vscode&perline=8" alt="Programming Skills"/>
+### 📊 Data Science
+`NumPy` `Data Cleaning` `Data Analysis` `Data Visualization`
 
-<br><br>
+### 🔧 Frameworks and Libraries
+`TensorFlow` `Keras` `OpenCV` `XGBoost` `Flask` `Streamlit`
 
-### 🤖 AI and Machine Learning
-
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&perline=8" alt="AI Skills"/>
-
-<br><br>
-
-### 📊 Data and Analytics
-
-`NumPy` &nbsp; `Pandas` &nbsp; `XGBoost` &nbsp; `Streamlit`
-
-</div>
+### 🗄️ Database and Tools
+`MySQL` `Git` `GitHub` `VS Code`
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
+## 🕵️ AI-Based DeepFake Detection System
 
-<td width="50%" valign="top">
+> **Detecting manipulated media using Deep Learning.**
 
-## 🕵️ DeepFake Detection
-
-### AI-Based DeepFake Detection System
-
-An intelligent system designed to identify whether an uploaded image or video is **Real or Fake** using Deep Learning.
+An AI-powered application designed to identify whether an uploaded image or video is **Real or Fake**.
 
 ### 🔥 Highlights
 
 - 🧠 MobileNetV2 Transfer Learning
 - 👁️ OpenCV Face Detection
 - 🎞️ Video Frame Extraction
-- 🤖 CNN-based Classification
+- 🤖 CNN-based Deep Learning
 - 🌐 Flask Web Application
-- 📊 Confidence Score Prediction
+- 📊 Prediction with Confidence Score
 
-**Tech Stack**
+**Tech:** `Python` `TensorFlow` `OpenCV` `Flask` `MobileNetV2`
 
-`Python` `TensorFlow` `OpenCV` `MobileNetV2` `Flask`
+---
 
-</td>
+## 📊 AI-Based Employee Performance Prediction
 
-<td width="50%" valign="top">
+> **Predicting employee performance using Machine Learning.**
 
-## 📊 Employee AI
-
-### Employee Performance Prediction
-
-An AI-powered HR analytics system designed to analyze employee performance and generate predictive insights.
+An AI-powered HR analytics system designed to analyze employee data and predict future performance.
 
 ### 🔥 Highlights
 
+- 📈 Employee Performance Prediction
 - 🤖 XGBoost Regression
-- 📈 Performance Prediction
 - 📊 HR Analytics Dashboard
 - 🧹 Data Preprocessing
 - 📉 Performance Analysis
 - ⚡ Streamlit Application
 
-**Tech Stack**
-
-`Python` `XGBoost` `Streamlit` `Pandas` `Data Analytics`
-
-</td>
-
-</tr>
-</table>
+**Tech:** `Python` `XGBoost` `Streamlit` `Pandas` `Data Analytics`
 
 ---
 
 # 💼 Professional Experience
 
-## 🧠 Machine Learning Engineer Intern
+## Machine Learning Engineer Intern
 
 ### Senchola Technology Solutions
 
 **December 2025**
 
-During my internship, I worked on an AI-powered employee analytics project.
-
-### 🚀 Responsibilities
-
-- 🤖 Developed Employee Performance Prediction System
+- 🤖 Developed an Employee Performance Prediction System
 - 📊 Built an interactive HR Analytics Dashboard
-- 🐍 Used Python for data processing
+- 🐍 Used Python for data processing and model development
 - 📈 Applied XGBoost for predictive analytics
 - 🔍 Performed data analysis and visualization
-- ⚙️ Worked on improving model performance
-- 💡 Converted business requirements into data-driven solutions
+- 🤝 Worked on improving model performance and insights
 
 ---
 
@@ -212,148 +139,112 @@ During my internship, I worked on an AI-powered employee analytics project.
 
 ---
 
-# 🧠 AI Skills
+# 🏆 Achievements and Certifications
+
+🥉 **Third Prize Winner** — Project Expo, Kalasalingam University
+
+☁️ **NPTEL Certification** — Cloud Computing
+
+🧠 **Generative AI Workshop**
+
+🤖 **AI and Technology Workshop** — Kongu Engineering College
+
+🎪 **Project Expo Participant** — Kalasalingam University
+
+💬 **Technical Symposium Participant**
+
+---
+
+# 💡 What I Bring
 
 ```text
-Machine Learning       ████████████████████  Advanced
-Python                 ████████████████████  Advanced
-Data Analytics         ██████████████████░░  Strong
-Computer Vision        ████████████████░░░░  Strong
-Deep Learning          ███████████████░░░░░  Growing
-SQL                    ████████████████░░░░  Strong
+Problem Solving       ████████████████████
+Machine Learning      ██████████████████░░
+Python Development    ███████████████████░
+Data Analytics        █████████████████░░░
+Computer Vision       ████████████████░░░░
+Team Collaboration    ███████████████████░
 ```
 
 ---
 
-# 📈 GitHub Analytics
+# 📈 GitHub Journey
 
-<div align="center">
+### 🚀 Building. Learning. Experimenting. Improving.
 
-<img src="https://github-readme-stats.vercel.app/api?username=aishumara2005&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
-
-<img src="https://streak-stats.demolab.com?user=aishumara2005&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aishumara2005&theme=react-dark&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>
-
-</div>
+```text
+2023  ───────────────  Started AI and Data Science Journey
+                         │
+2024  ───────────────  Python + Data Science
+                         │
+2025  ───────────────  Machine Learning + Projects
+                         │
+2026  ───────────────  Deep Learning + AI Engineering
+                         │
+2027  ───────────────  AI Engineer 🚀
+```
 
 ---
 
-# 🏆 Achievements
+# 🧠 Currently Learning
 
-| 🏅 Achievement | 📌 Details |
-|---|---|
-| 🥉 **Third Prize Winner** | Project Expo — Kalasalingam University |
-| ☁️ **NPTEL Certified** | Cloud Computing |
-| 🧠 **Workshop** | Generative AI |
-| 🤖 **Workshop** | AI and Technology — Kongu Engineering College |
-| 🎪 **Project Expo** | Kalasalingam University |
-| 💬 **Symposiums** | Technical Symposium Participation |
-
----
-
-# 🌱 Currently Learning
-
-<div align="center">
-
-🧠 **Advanced Machine Learning**
-
-⬇️
-
-🤖 **Deep Learning**
-
-⬇️
-
-👁️ **Computer Vision**
-
-⬇️
-
-📊 **Advanced Data Analytics**
-
-⬇️
-
-🚀 **AI Application Development**
-
-⬇️
-
-☁️ **AI Deployment**
-
-</div>
+- 🔥 Advanced Machine Learning
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- 📊 Advanced Data Analytics
+- 🚀 AI Application Development
+- ☁️ AI Deployment
 
 ---
 
 # 🎯 2026 Goals
 
 - 🚀 Build production-ready AI applications
-- 🧠 Master advanced Deep Learning concepts
-- 📊 Develop impactful Data Science projects
+- 🧠 Strengthen Deep Learning skills
+- 📊 Create impactful Data Science projects
 - 💻 Contribute to Open Source
-- 🌐 Strengthen my AI Engineering portfolio
-- 🤝 Collaborate with developers and AI enthusiasts
-- 📚 Continuously learn emerging AI technologies
+- 🌐 Build a strong AI Engineering portfolio
+- 🤝 Collaborate on meaningful AI projects
 
 ---
 
-# 💎 My Strengths
+# 🤝 Soft Skills
 
-<table>
-<tr>
-<td align="center">🧠<br><b>Problem Solving</b></td>
-<td align="center">🤝<br><b>Teamwork</b></td>
-<td align="center">💬<br><b>Communication</b></td>
-</tr>
-
-<tr>
-<td align="center">👑<br><b>Leadership</b></td>
-<td align="center">📊<br><b>Analytical Thinking</b></td>
-<td align="center">⚡<br><b>Adaptability</b></td>
-</tr>
-</table>
-
----
-
-# 🔥 Developer Mindset
-
-<div align="center">
-
-### 💭
-
-> **"Learn it. Build it. Break it. Improve it. Repeat."**
-
-### 🚀 Build with purpose. Learn with curiosity. Create with AI.
-
-</div>
+`Problem Solving`  
+`Teamwork`  
+`Communication`  
+`Leadership`  
+`Time Management`  
+`Adaptability`  
+`Analytical Thinking`
 
 ---
 
 # 🌐 Let's Connect
 
-<div align="center">
+If you're interested in **AI, Machine Learning, Data Science or building something awesome**, let's connect and collaborate! 🚀
 
-If you are interested in **Artificial Intelligence, Machine Learning, Data Science or innovative technology**, let's connect and build something meaningful together. 🤝
+### 🔗 Portfolio
+https://aiswaryamara.netlify.app/
 
-<br>
+### 💼 LinkedIn
+https://www.linkedin.com/in/aiswarya-maravarman-8a5550371/
 
-<a href="https://aiswaryamara.netlify.app/">
-<img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-6C63FF?style=for-the-badge" alt="Portfolio"/>
-</a>
+### 📧 Email
+aishumara2005@gmail.com
 
-<a href="https://www.linkedin.com/in/aiswarya-maravarman-8a5550371/">
-<img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"/>
-</a>
+---
 
-<a href="mailto:aishumara2005@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge" alt="Email"/>
-</a>
+# 💭 Developer Mindset
 
-<br><br>
+> ### "Learn it. Build it. Break it. Improve it. Repeat." 🔥
+
+---
+
+<p align="center">
 
 ### ⭐ Thanks for visiting my GitHub profile!
 
-</div>
+### 🚀 Keep Learning • Keep Building • Keep Growing
+
+</p>
