@@ -1,333 +1,222 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:7C4DFF,100:00D9FF&height=200&section=header&text=AISWARYA%20MARAVARMAN&fontSize=43&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20Machine%20Learning%20%7C%20Automation&descAlignY=58&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=190&section=header&text=Aiswarya%20Maravarman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20Machine%20Learning%20%7C%20Automation&descAlignY=55&descSize=17"/>
 
-<h3>Building AI systems that turn real-world problems into practical solutions.</h3>
+### 👋 Hi, I'm Aiswarya Maravarman
 
-<p>
-  <a href="https://aiswaryamara.netlify.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aiswarya-maravarman-8a5550371/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:aishumara2005@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+**Aspiring AI Engineer | B.Tech AI & Data Science Student**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=700&color=6C63FF&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer+in+Progress;Computer+Vision+%7C+Data+Analytics;Python+%7C+AI+Applications;GitHub+%26+Developer+Workflow+Automation;n8n+%7C+RPA+%7C+Workflow+Automation;Building+GrievanceAI"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=Machine+Learning;Computer+Vision;Data+Analytics;Python+Developer;RPA+%26+Workflow+Automation;Building+Practical+AI+Solutions"/>
 
-<img src="https://komarev.com/ghpvc/?username=aishumara2005&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://aiswaryamara.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/aiswarya-maravarman-8a5550371/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:aishumara2005@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=aishumara2005\&label=Profile+Views\&color=6C63FF\&style=for-the-badge)
 
 </div>
 
 ---
 
-## 🧠 WHO I AM
+## 🧬 About Me
 
-I'm **Aiswarya Maravarman**, a B.Tech Artificial Intelligence & Data Science student focused on building practical solutions with **Machine Learning, Computer Vision, Data Analytics and Automation**.
+🎓 **B.Tech Artificial Intelligence & Data Science**
+🏫 Indra Ganesan College of Engineering · **2023–2027**
+📍 Tiruchirappalli, Tamil Nadu
 
-Rather than limiting myself to one area of AI, I enjoy working across the complete problem-solving workflow — from **data → model → application → automation**.
+💼 **Machine Learning Engineer Intern — Senchola Technology Solutions**
 
-🎓 **B.Tech AI & Data Science** — Indra Ganesan College of Engineering
-📅 **2023 – 2027**
-📍 **Tiruchirappalli, Tamil Nadu**
+I enjoy building practical solutions using **Machine Learning, Computer Vision, Data Analytics and Automation**.
 
-### Current Focus
+My work spans from developing ML models and analytics dashboards to working with **GitHub developer workflows, RPA and n8n automation**.
 
-`Machine Learning` · `Computer Vision` · `Data Analytics` · `AI Applications` · `Automation`
-
-🚧 **Currently Building:** GrievanceAI — an AI-powered grievance management system designed to classify, prioritize and track grievances intelligently.
+🚧 **Currently Building:** GrievanceAI — an AI-powered grievance management system for intelligent grievance classification, prioritization and tracking.
 
 ---
 
-## ⚡ WHAT I BUILD
+## 💻 Tech Stack
 
-<table>
-<tr>
-<td width="25%" align="center">
+<p align="center">
 
-### 🤖 AI
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,flask,mysql,git,github,vscode"/>
 
-Machine Learning
-Deep Learning
-Computer Vision
-
-</td>
-
-<td width="25%" align="center">
-
-### 📊 DATA
-
-Data Analysis
-Data Processing
-Visualization
-
-</td>
-
-<td width="25%" align="center">
-
-### ⚙️ AUTOMATION
-
-n8n
-RPA
-Workflow Automation
-
-</td>
-
-<td width="25%" align="center">
-
-### 🛠️ DEVELOPMENT
-
-Python
-APIs
-Web Applications
-
-</td>
-</tr>
-</table>
-
----
-
-# 🧰 TECHNOLOGY TOOLKIT
-
-### 🐍 Programming & Data
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-### 🧠 AI & Computer Vision
+<p align="center">
 
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-EC0000?style=for-the-badge&logo=xgboost&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-EC0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+
 </p>
 
-### 🌐 Development & Database
+<p align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/RPA-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Workflow%20Automation-00D9FF?style=flat-square"/>
 
-### ⚙️ Automation & Developer Tools
-
-<p>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/RPA-6C63FF?style=for-the-badge&logo=robotframework&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
-# 🚀 SELECTED PROJECTS
+# 🚀 Featured Projects
 
-### 📊 01 — Employee Performance Prediction
+### 📊 Employee Performance Prediction
 
-**Turning employee data into actionable HR insights.**
+**Machine Learning + HR Analytics**
 
-Built a machine learning system to analyze historical employee performance and predict future performance trends.
+* Predicts employee performance using historical performance data
+* Developed an **XGBoost-based prediction model**
+* Built an interactive **Streamlit HR Analytics Dashboard**
+* Performed data preprocessing, feature analysis and visualization
 
-**What I worked on**
-
-* Employee performance prediction using Machine Learning
-* Feature analysis and data preprocessing
-* **XGBoost** model development
-* HR analytics and visualization
-* Interactive **Streamlit dashboard**
-* Identification of factors affecting employee performance
-
-**Core Stack:** `Python` `Pandas` `XGBoost` `Streamlit` `Data Analytics`
+**Tech:** `Python` · `Pandas` · `XGBoost` · `Streamlit`
 
 ---
 
-### 🐙 02 — GitHub Pull Request Analytics
+### 🐙 GitHub Pull Request Analytics
 
-**Making developer activity measurable through data.**
+**Developer Activity & Repository Insights**
 
-Worked with GitHub-related tools and workflows during my **Machine Learning Engineer Internship**, analyzing pull request activity and extracting meaningful development insights.
+* Worked with **GitHub tools and Pull Request data** during my Machine Learning internship
+* Analyzed repository and Pull Request activity
+* Extracted useful insights from developer workflows
+* Worked with GitHub-based development and collaboration data
 
-**What I worked on**
-
-* GitHub Pull Request data handling
-* Repository activity analysis
-* Developer contribution insights
-* Pull Request monitoring
-* Data extraction and processing
-* GitHub-based development workflow analysis
-
-**Core Stack:** `Python` `GitHub` `APIs` `Data Analytics`
+**Tech:** `Python` · `GitHub` · `APIs` · `Data Analytics`
 
 ---
 
-### 🔍 03 — AI-Based Defect Detection
+### 🔍 AI-Based Defect Detection
 
-**Automating visual inspection with Computer Vision.**
+**Computer Vision for Automated Inspection**
 
-Developed a computer vision-based system to identify defects from images and reduce dependency on manual inspection.
+* Developed an image-based defect detection system
+* Applied image preprocessing using **OpenCV**
+* Explored Machine Learning / Deep Learning approaches for automated detection
+* Designed to reduce manual inspection effort
 
-**What I worked on**
-
-* Image-based defect identification
-* Image preprocessing
-* Computer Vision pipeline
-* OpenCV-based processing
-* Machine Learning / Deep Learning approach
-* Automated inspection workflow
-
-**Core Stack:** `Python` `OpenCV` `Computer Vision` `Deep Learning`
+**Tech:** `Python` · `OpenCV` · `Computer Vision` · `Deep Learning`
 
 ---
 
-### 🤖 04 — GrievanceAI
+### 🤖 GrievanceAI
 
-**AI-powered grievance management — currently building.**
+**AI-Powered Grievance Management System**
 
-A project focused on transforming traditional grievance handling into an intelligent, structured workflow.
-
-**Planned capabilities**
+🚧 **Currently Building**
 
 * Intelligent grievance classification
 * Severity-based prioritization
 * Automated grievance processing
-* Status and grievance tracking
-* AI-assisted decision support
-* Structured management dashboard
+* Grievance status and tracking
+* AI-assisted grievance management
 
-**Planned Stack:** `AI` `FastAPI` `React` `Python`
-
-> 🚧 **Status: Currently in Development**
+**Tech:** `Python` · `FastAPI` · `React` · `AI`
 
 ---
 
-# 💼 EXPERIENCE
+# 💼 Experience
 
-## Machine Learning Engineer Intern
+### Machine Learning Engineer Intern
 
-### Senchola Technology Solutions
+**Senchola Technology Solutions**
 
-Worked on practical Machine Learning and Data Analytics tasks with a focus on building data-driven solutions.
+Worked on practical Machine Learning, Data Analytics and developer workflow tasks.
 
-**Key Work**
+**Key Contributions**
 
-`Employee Performance Prediction`
-`HR Analytics`
-`XGBoost`
-`Python`
-`Data Analytics`
-`GitHub Pull Request / Developer Workflow Analysis`
-
-This experience helped me work beyond model building and understand how **data, development workflows and applications come together in real-world projects.**
+* Developed **Employee Performance Prediction** solution
+* Worked with **XGBoost and Python**
+* Built HR Analytics and visualization workflows
+* Worked with **GitHub Pull Requests and GitHub tools**
+* Analyzed developer activity and repository workflows
+* Applied data processing and analytics techniques to real-world tasks
 
 ---
 
-# 🎤 STUDENT WORKSHOP
+# 🎤 Student Workshop
 
-## 📊 Pandas Workshop Facilitator
+### 📊 Pandas Workshop
 
-Conducted a hands-on **Pandas Workshop for students**, introducing practical data analysis concepts through live demonstrations and examples.
+Conducted a hands-on **Pandas Workshop for students**, focusing on practical data analysis with Python.
 
-### Topics Covered
+**Covered:**
 
 `DataFrames` · `Data Loading` · `Data Cleaning` · `Filtering` · `Sorting` · `GroupBy` · `Aggregation` · `Missing Values`
 
-🎯 **Workshop Approach**
-
-Focused on making Pandas concepts simple and practical by combining explanation with hands-on implementation using datasets.
+Focused on explaining concepts through **live demonstrations and practical dataset-based exercises**.
 
 ---
 
-# 🏆 ACHIEVEMENTS & MILESTONES
+# 🏆 Achievements
 
-### 🏆 WizCD Hackathon — Final Round Participant
+🏆 **WizCD Hackathon — Final Round Participant**
+Successfully cleared Round 1 and advanced to the Final Round.
 
-Successfully cleared the **First Round** and advanced to the **Final Round**, where I presented and competed with the shortlisted participants.
+🏆 **MSME Project Presentation — Round 2**
+Successfully cleared Round 1 and advanced to the Second Round of the MSME project presentation. The project was also considered for potential funding support under the initiative.
 
-### 🏆 MSME Project Presentation — Round 2
+🥉 **Third Prize — Project Expo**
 
-Successfully cleared the **First Round** of the MSME project presentation and advanced to the **Second Round**.
+☁️ **NPTEL — Cloud Computing**
 
-The project was presented as part of the MSME initiative and received consideration for **funding support based on project evaluation**.
+🤖 **AI Workshops**
 
-### 🥉 Third Prize — Project Expo
+💡 **Technical Symposiums**
 
-Secured **Third Prize** in a Project Expo for presenting a technical project.
-
-### ☁️ NPTEL — Cloud Computing
-
-Completed **NPTEL Cloud Computing** certification.
-
-### 🤖 AI Workshops
-
-Participated in AI-focused workshops and technical learning sessions.
-
-### 💡 Technical Symposiums
-
-Participated in technical symposiums and project-oriented events.
-
-### 📜 Certifications
-
-Completed multiple technical certifications across AI, Data Science and related technologies.
+📜 **Multiple Certifications**
 
 ---
 
-# 🎓 EDUCATION
+# 🎓 Education
 
-| Degree                         | Institution                          |     Score    |
-| :----------------------------- | :----------------------------------- | :----------: |
-| **B.Tech — AI & Data Science** | Indra Ganesan College of Engineering | **CGPA 8.1** |
-| **Higher Secondary**           | Holy Redeemers Girls Hr. Sec. School |    **72%**   |
+| Degree                       | Institution                          |     Score    |
+| :--------------------------- | :----------------------------------- | :----------: |
+| **B.Tech AI & Data Science** | Indra Ganesan College of Engineering | **CGPA 8.1** |
+| **Higher Secondary**         | Holy Redeemers Girls Hr. Sec. School |    **72%**   |
 
 ---
 
-# 📊 GITHUB ACTIVITY
+# 📈 GitHub
 
-<div align="center">
+<p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=aishumara2005&show_icons=true&theme=radical&hide_border=true"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=aishumara2005&theme=radical&hide_border=true"/>
 
-</div>
+</p>
 
-<br>
-
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aishumara2005&theme=react-dark&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 🤝 BEYOND CODE
+# 🤝 Soft Skills
 
-I'm continuously improving my ability to work with people, present ideas and solve problems collaboratively.
-
-`Problem Solving` · `Teamwork` · `Communication` · `Leadership` · `Time Management` · `Adaptability`
+**Problem Solving** · **Teamwork** · **Communication** · **Leadership** · **Time Management** · **Adaptability**
 
 ---
 
 <div align="center">
 
-## 💜 Building. Learning. Automating. Evolving.
+### ⭐ Thanks for visiting my profile!
 
-### Let's create something intelligent.
-
-<a href="https://aiswaryamara.netlify.app/">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<br><br>
+**Building with AI · Learning continuously · Automating intelligently**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C63FF&height=120&section=footer"/>
 
