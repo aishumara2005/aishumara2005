@@ -18,7 +18,7 @@
 
 ---
 
-## 🧬 About Me
+# 🧬 About Me
 
 🎓 **B.Tech Artificial Intelligence & Data Science**
 🏫 Indra Ganesan College of Engineering · **2023–2027**
@@ -34,7 +34,7 @@ My work spans from developing ML models and analytics dashboards to working with
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
 
@@ -61,17 +61,18 @@ My work spans from developing ML models and analytics dashboards to working with
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/RPA-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Workflow%20Automation-00D9FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Workflow%20Automation-00D9FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
-### 📊 Employee Performance Prediction
+## 📊 AI-Based Employee Performance Prediction
 
 **Machine Learning + HR Analytics**
 
@@ -79,48 +80,52 @@ My work spans from developing ML models and analytics dashboards to working with
 * Developed an **XGBoost-based prediction model**
 * Built an interactive **Streamlit HR Analytics Dashboard**
 * Performed data preprocessing, feature analysis and visualization
+* Provides data-driven insights to support HR decision-making
 
-**Tech:** `Python` · `Pandas` · `XGBoost` · `Streamlit`
+**Tech:** `Python` · `Pandas` · `XGBoost` · `Streamlit` · `Data Analytics`
 
 ---
 
-### 🐙 GitHub Pull Request Analytics
+## 🐙 GitHub Pull Request Analytics
 
 **Developer Activity & Repository Insights**
 
-* Worked with **GitHub tools and Pull Request data** during my Machine Learning internship
+* Worked with **GitHub tools and Pull Request data** during my Machine Learning Engineer Internship
 * Analyzed repository and Pull Request activity
 * Extracted useful insights from developer workflows
 * Worked with GitHub-based development and collaboration data
+* Applied Python and data analysis techniques to GitHub activity
 
 **Tech:** `Python` · `GitHub` · `APIs` · `Data Analytics`
 
 ---
 
-### 🔍 AI-Based Defect Detection
+## 🔍 AI-Based Defect Detection
 
 **Computer Vision for Automated Inspection**
 
 * Developed an image-based defect detection system
 * Applied image preprocessing using **OpenCV**
-* Explored Machine Learning / Deep Learning approaches for automated detection
+* Used Machine Learning / Deep Learning approaches for automated detection
 * Designed to reduce manual inspection effort
+* Focused on applying Computer Vision to real-world inspection problems
 
 **Tech:** `Python` · `OpenCV` · `Computer Vision` · `Deep Learning`
 
 ---
 
-### 🤖 GrievanceAI
+## 🤖 GrievanceAI
 
 **AI-Powered Grievance Management System**
 
 🚧 **Currently Building**
 
 * Intelligent grievance classification
-* Severity-based prioritization
+* Severity-based grievance prioritization
 * Automated grievance processing
 * Grievance status and tracking
 * AI-assisted grievance management
+* Designed to make grievance handling faster and more structured
 
 **Tech:** `Python` · `FastAPI` · `React` · `AI`
 
@@ -128,30 +133,30 @@ My work spans from developing ML models and analytics dashboards to working with
 
 # 💼 Experience
 
-### Machine Learning Engineer Intern
+## Machine Learning Engineer Intern
 
-**Senchola Technology Solutions**
+### Senchola Technology Solutions
 
 Worked on practical Machine Learning, Data Analytics and developer workflow tasks.
 
 **Key Contributions**
 
-* Developed **Employee Performance Prediction** solution
-* Worked with **XGBoost and Python**
-* Built HR Analytics and visualization workflows
+* Developed an **Employee Performance Prediction** solution
+* Worked with **Python, XGBoost and data analytics**
+* Built HR analytics and visualization workflows
 * Worked with **GitHub Pull Requests and GitHub tools**
 * Analyzed developer activity and repository workflows
-* Applied data processing and analytics techniques to real-world tasks
+* Applied data processing and analytical techniques to real-world tasks
 
 ---
 
 # 🎤 Student Workshop
 
-### 📊 Pandas Workshop
+## 📊 Pandas Workshop
 
-Conducted a hands-on **Pandas Workshop for students**, focusing on practical data analysis with Python.
+Conducted a hands-on **Pandas Workshop for students**, focusing on practical data analysis using Python.
 
-**Covered:**
+### Topics Covered
 
 `DataFrames` · `Data Loading` · `Data Cleaning` · `Filtering` · `Sorting` · `GroupBy` · `Aggregation` · `Missing Values`
 
@@ -161,21 +166,35 @@ Focused on explaining concepts through **live demonstrations and practical datas
 
 # 🏆 Achievements
 
-🏆 **WizCD Hackathon — Final Round Participant**
-Successfully cleared Round 1 and advanced to the Final Round.
+### 🏆 SDG Goals Hackathon — Final Round Participant
 
-🏆 **MSME Project Presentation — Round 2**
-Successfully cleared Round 1 and advanced to the Second Round of the MSME project presentation. The project was also considered for potential funding support under the initiative.
+Successfully cleared the **First Round** and advanced to the **Final Round**, where I presented and competed with the shortlisted participants.
 
-🥉 **Third Prize — Project Expo**
+### 🏆 MSME Project Presentation — Round 2
 
-☁️ **NPTEL — Cloud Computing**
+Successfully cleared the **First Round** and advanced to the **Second Round** of the MSME project presentation.
 
-🤖 **AI Workshops**
+The project was presented as part of the MSME initiative and was considered for **potential funding support based on project evaluation**.
 
-💡 **Technical Symposiums**
+### 🥉 Third Prize — Project Expo
 
-📜 **Multiple Certifications**
+Secured **Third Prize** in a Project Expo for presenting a technical project.
+
+### ☁️ NPTEL — Cloud Computing
+
+Completed **NPTEL Cloud Computing** certification.
+
+### 🤖 AI Workshops
+
+Participated in AI-focused workshops and technical learning sessions.
+
+### 💡 Technical Symposiums
+
+Participated in technical symposiums and project-oriented events.
+
+### 📜 Multiple Certifications
+
+Completed multiple technical certifications across AI, Data Science and related technologies.
 
 ---
 
@@ -188,7 +207,7 @@ Successfully cleared Round 1 and advanced to the Second Round of the MSME projec
 
 ---
 
-# 📈 GitHub
+# 📈 GitHub Stats
 
 <p align="center">
 
