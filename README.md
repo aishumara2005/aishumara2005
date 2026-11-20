@@ -1,131 +1,220 @@
 
-<!--
-  AISWARYA MARAVARMAN | GitHub Profile README
-  Applied AI • Machine Learning • Python Engineering • Automation
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090B1A,45:34206F,100:00C2D1&height=210&section=header&text=AISWARYA%20MARAVARMAN&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Building%20Intelligence%20Into%20Reality&descAlignY=60&descSize=16" width="100%" alt="Aiswarya Maravarman"/>
-
-<a href="https://aiswaryamaravarman2005.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aiswarya-maravarman-8a5550371/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:aishumara2005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:24105B,75:6428B8,100:00D9FF&height=230&section=header&text=AISWARYA%20MARAVARMAN&fontSize=39&fontColor=FFFFFF&fontAlignY=36&desc=AI%20ENGINEER%20IN%20THE%20MAKING%20%7C%20BUILDING%20INTELLIGENT%20SYSTEMS&descAlignY=58&descSize=13" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=850&color=8B7CFF&center=true&vCenter=true&width=720&lines=AI+%26+Data+Science+Undergraduate;Python+%7C+Machine+Learning+%7C+Applied+AI;Turning+real-world+problems+into+working+software;Learning+by+building.+Improving+by+shipping." alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Data+Science;Machine+Learning+%7C+Python+%7C+AI+Applications;Exploring+Computer+Vision+%26+Automation;Turning+Ideas+Into+Intelligent+Products" />
 
-<br/>
+<br/><br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=aishumara2005&style=flat&color=7C3AED&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/aishumara2005?style=flat&color=0891B2&label=FOLLOWERS)
+<a href="https://aiswaryamaravarman2005.netlify.app/">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/aiswarya-maravarman-8a5550371/">
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:aishumara2005@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=aishumara2005&label=PROFILE%20VISITORS&color=8B5CF6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/aishumara2005?label=FOLLOWERS&style=for-the-badge&color=00D9FF"/>
 
 </div>
 
 ---
 
-## ✦ ABOUT ME
+<h2 align="center">◈ WHO AM I?</h2>
 
-I'm **Aiswarya Maravarman**, a final-year **B.Tech Artificial Intelligence & Data Science** student at **Indra Ganesan College of Engineering (2023–2027)**, passionate about building practical AI-powered applications.
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I enjoy working across the journey from understanding a real problem to developing a model, building the application around it, and making the result useful. My current focus is **Python engineering, Machine Learning, applied AI, and workflow automation**.
+Hello! I'm **Aiswarya Maravarman** 👋
 
-- 🔭 Building: AI-powered applications and practical automation workflows.
-- 🧠 Interested in: Machine Learning, AI application development, computer vision, and intelligent systems.
-- 🛠️ Strengthening: Python, model development, APIs, and end-to-end project execution.
-- 🎯 Goal: Grow into an AI/ML Engineer by contributing to meaningful, real-world products.
-- 🤝 Open to: AI/ML internships, collaborative projects, and learning opportunities.
+🎓 Final-Year B.Tech Artificial Intelligence & Data Science Student at **Indra Ganesan College of Engineering (2023–2027)**.
 
-> **My approach:** Learn deeply. Build practically. Improve continuously.
+I'm passionate about developing intelligent applications that solve real-world problems using Artificial Intelligence, Machine Learning, Python, and automation.
 
----
+I believe technology becomes powerful when intelligence meets practical implementation.
 
-## ✦ TECH STACK
+**My current focus:**
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Languages"/>
-</p>
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Deep Learning and Computer Vision
+- 🐍 Python Application Development
+- ⚙️ Intelligent Workflow Automation
+- 🔬 Real-world AI Product Development
 
-### AI, Machine Learning & Data
-<p>
-<img src="https://img.shields.io/badge/Scikit--learn-ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-Modeling-EC6B23?style=flat-square"/>
-<img src="https://img.shields.io/badge/TensorFlow-Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-</p>
+**My mission:** Build technology that makes a meaningful difference.
 
-### Backend, Automation & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,git,github,vscode,postgres" alt="Backend and tools"/>
-<img src="https://img.shields.io/badge/UiPath-RPA-FA4616?style=flat-square&logo=uipath&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-Integration-0EA5E9?style=flat-square"/>
-</p>
+<br clear="right"/>
 
 ---
 
-## ✦ FEATURED PROJECTS
+<h2 align="center">◈ MY TECH UNIVERSE</h2>
+
+<div align="center">
+
+### PROGRAMMING LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
+
+### AI • MACHINE LEARNING • DATA SCIENCE
+
+<img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+### BACKEND • DATABASE • AUTOMATION
+
+<img src="https://skillicons.dev/icons?i=flask,fastapi,postgres,git,github,vscode&theme=dark"/>
+
+<img src="https://img.shields.io/badge/UiPath-RPA-FA4616?style=for-the-badge&logo=uipath&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-Integration-0891B2?style=for-the-badge"/>
+
+</div>
+
+---
+
+<h2 align="center">◈ PROJECT LAB</h2>
+
+<p align="center">
+<i>Ideas transformed into intelligent applications.</i>
+</p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 GitPulse
-**AI-Powered GitHub Team Intelligence**
+<h3 align="center">🕵️ DEEPFAKE DETECTION</h3>
 
-A Flask-based GitHub intelligence tool designed to help teams understand repository activity, contributor insights, and code health.
+<p align="center">
+<img src="https://img.shields.io/badge/AI-Deepfake%20Detection-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Domain-Computer%20Vision-00D9FF?style=flat-square"/>
+</p>
 
-- GitHub API integration
-- Contributor and repository insights
-- Code and security scanning concepts
-- Team activity monitoring
+An AI-based project focused on identifying manipulated or synthetic media and exploring how machine learning can help detect digital content authenticity.
 
-[↗ View Repository](https://github.com/aishumara2005/GitPulse)
+**Focus areas:**
+- Deepfake identification
+- AI-based media analysis
+- Digital content authenticity
+
+<sub>Project implementation details can be added here.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Employee Performance Prediction
-**Machine Learning • HR Analytics**
+<h3 align="center">⚡ GITPULSE</h3>
 
-A predictive analytics project focused on understanding employee performance using workforce-related data and machine learning.
+<p align="center">
+<img src="https://img.shields.io/badge/AI-GitHub%20Intelligence-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend-Flask-00D9FF?style=flat-square"/>
+</p>
 
-- Employee performance analysis
-- Predictive modeling with ML
-- HR-focused insights
-- Project Expo – Third Prize
+AI-powered GitHub team intelligence platform designed to understand repository activity, contributor insights, and code health.
 
-[↗ View Repository](https://github.com/aishumara2005/EMPLOYEE_PERFORMENCE_PREDICTION)
+**Key features:**
+- GitHub API integration
+- Contributor insights
+- Repository activity monitoring
+- Code and security scanning concepts
+
+<p align="center">
+<a href="https://github.com/aishumara2005/GitPulse">VIEW PROJECT ↗</a>
+</p>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 🏙️ GrievanceAI
-**AI-Assisted Citizen Grievance Platform**
+<h3 align="center">📊 EMPLOYEE PERFORMANCE PREDICTION</h3>
 
-A project in development that aims to make civic issue reporting and tracking more structured and accessible.
+<p align="center">
+<img src="https://img.shields.io/badge/Machine%20Learning-Prediction-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Domain-HR%20Analytics-00D9FF?style=flat-square"/>
+</p>
 
-- Road, water, waste, and streetlight complaints
-- FastAPI-based backend
-- Database-backed grievance workflow
-- AI-assisted issue handling concepts
+A machine learning project that analyzes employee-related data and explores performance prediction for HR analytics.
 
-<sub>Status: In development</sub>
+**Key areas:**
+- Employee performance analysis
+- Predictive modeling
+- HR data insights
+- Business-oriented ML application
+
+🏆 Third Prize — Project Expo, Kalasalingam University.
+
+<p align="center">
+<a href="https://github.com/aishumara2005/EMPLOYEE_PERFORMENCE_PREDICTION">VIEW PROJECT ↗</a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧪 More Experiments
-**Learning through implementation**
+<h3 align="center">🏙️ GRIEVANCE AI</h3>
 
-I also explore smaller experiments in Python, data science, computer vision, and application development as I strengthen my engineering fundamentals.
+<p align="center">
+<img src="https://img.shields.io/badge/AI-Civic%20Technology-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend-FastAPI-00D9FF?style=flat-square"/>
+</p>
 
-[↗ Explore all repositories](https://github.com/aishumara2005?tab=repositories)
+An AI-assisted citizen grievance platform designed to organize and manage civic complaints.
+
+**Focus areas:**
+- Road damage reporting
+- Water leakage complaints
+- Garbage and drainage issues
+- Streetlight complaints
+- Structured grievance workflows
+
+<sub>Currently in development.</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🧬 DISEASE RISK PREDICTION</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/AI-Predictive%20Modeling-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Domain-Healthcare%20Analytics-00D9FF?style=flat-square"/>
+</p>
+
+A machine learning project exploring disease-risk prediction from structured input data.
+
+**Focus areas:**
+- Data preprocessing
+- Predictive modeling
+- Model evaluation
+- Risk prediction
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🔬 MORE EXPERIMENTS</h3>
+
+I continuously explore new ideas in:
+
+- Python development
+- Computer vision
+- Machine learning
+- AI-powered applications
+- Workflow automation
+
+<p align="center">
+<a href="https://github.com/aishumara2005?tab=repositories">EXPLORE ALL REPOSITORIES ↗</a>
+</p>
 
 </td>
 </tr>
@@ -133,63 +222,99 @@ I also explore smaller experiments in Python, data science, computer vision, and
 
 ---
 
-## ✦ EXPERIENCE
+<h2 align="center">◈ PROFESSIONAL EXPERIENCE</h2>
 
-**Machine Learning Engineer Intern — Senchola Technology Solutions**
+### 💼 Machine Learning Engineer Intern
+**Senchola Technology Solutions**
 
-- Worked on an Employee Performance Prediction / HR Analytics project.
-- Gained practical exposure to applying machine learning to a business-oriented problem.
-- Project work received **Third Prize at the Project Expo, Kalasalingam University**.
+- Worked on Employee Performance Prediction / HR Analytics.
+- Gained practical exposure to machine learning for a business-oriented problem.
+- Project work received Third Prize at the Project Expo, Kalasalingam University.
 
-**AI/ML Intern — VDOT Academy**
+### 🤖 AI/ML Intern
+**VDOT Academy | June – July 2026**
 
-- Completed a one-month AI/ML internship (June–July 2026).
-- Worked on practical AI/ML learning and project implementation.
-
----
-
-## ✦ ACHIEVEMENTS & LEARNING
-
-- 🏆 **Third Prize** — Project Expo, Kalasalingam University.
-- ☁️ **NPTEL** — Cloud Computing.
-- 🌱 **SDG Hackathon** — Participated in a problem-solving and innovation-focused hackathon.
-- 🐼 Conducted a **Pandas workshop**, sharing data-analysis fundamentals with fellow learners.
+- Completed a one-month AI/ML internship.
+- Gained practical exposure to AI/ML concepts and project implementation.
 
 ---
 
-## ✦ GITHUB ACTIVITY
+<h2 align="center">◈ ACHIEVEMENTS & LEARNING</h2>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aishumara2005&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9B8CFF&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishumara2005&layout=compact&hide_border=true&bg_color=0D1117&title_color=9B8CFF&text_color=C9D1D9" alt="Most used languages"/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=aishumara2005&hide_border=true&background=0D1117&ring=9B8CFF&fire=22D3EE&currStreakLabel=9B8CFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=aishumara2005&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=22D3EE&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+| Achievement | Details |
+|:---|:---|
+| 🏆 Project Expo | Third Prize – Kalasalingam University |
+| ☁️ NPTEL | Cloud Computing |
+| 🌱 Hackathon | SDG Hackathon |
+| 🐼 Knowledge Sharing | Conducted a Pandas Workshop |
 
 </div>
 
 ---
 
-## ✦ LET'S CONNECT
-
-I'm always happy to connect with developers, mentors, recruiters, and people building useful technology.
+<h2 align="center">◈ GITHUB ANALYTICS</h2>
 
 <div align="center">
 
-<a href="https://aiswaryamaravarman2005.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aiswarya-maravarman-8a5550371/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:aishumara2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/aishumara2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aishumara2005&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9B8CFF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishumara2005&layout=compact&hide_border=true&bg_color=0D1117&title_color=9B8CFF&text_color=FFFFFF"/>
+
+<br/>
+
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=aishumara2005&theme=transparent&hide_border=true&ring=8B5CF6&fire=00D9FF&currStreakLabel=8B5CF6&sideLabels=FFFFFF&dates=AAAAAA"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aishumara2005&bg_color=0D1117&color=FFFFFF&line=8B5CF6&point=00D9FF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<h2 align="center">◈ CURRENTLY EXPLORING</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Applied%20AI-Exploring-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-Learning-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Automation-Building-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python%20Engineering-Improving-22C55E?style=for-the-badge"/>
+
+</div>
+
+---
+
+<h2 align="center">◈ LET'S BUILD SOMETHING INTELLIGENT</h2>
+
+<div align="center">
+
+I'm open to connecting with developers, AI enthusiasts, mentors, recruiters, and teams working on meaningful technology.
+
+<a href="https://aiswaryamaravarman2005.netlify.app/">
+<img src="https://img.shields.io/badge/MY%20PORTFOLIO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aiswarya-maravarman-8a5550371/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aishumara2005@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aishumara2005">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-**Thanks for visiting my profile!**
+### ✨ LEARN. BUILD. INNOVATE. REPEAT.
 
-*Keep exploring. Keep building. Keep creating impact.*
+<i>"The future belongs to those who build it."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2D1,55:34206F,100:090B1A&height=105&section=footer" width="100%" alt="Decorative footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,45:6428B8,100:050510&height=130&section=footer" width="100%"/>
 
 </div>
